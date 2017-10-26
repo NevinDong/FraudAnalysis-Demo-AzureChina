@@ -64,13 +64,13 @@ Azure SQL 数据仓库是基于 SQL 的完全托管 PB 级云数据仓库，它�
 ![Figure 7](https://github.com/NevinDong/FraudAnalysis-Demo-AzureChina/tree/master/images/nevdatasource27.png)
 
 3、可将本地客户端IP地址加入Azure SQL 数据仓库的防火墙安全设置，以便获得所有数据库的访问权限。
-![Figure 8]({{ site.baseurl }}/images/nevdatasource23.png)
+![Figure 8](https://github.com/NevinDong/FraudAnalysis-Demo-AzureChina/tree/master/images/nevdatasource23.png)
 
 4、打开Microsoft Visual Studio IDE，在SQL Server Object Explorer中连接Azure SQL 数据仓库。其中：Server Name填入新建的Azure SQL 数据仓库的URL地址，User Name填入 “mylogin “，Password填入” pass@word1 “。
-![Figure 9]({{ site.baseurl }}/images/nevdatasource50.png)
+![Figure 9](https://github.com/NevinDong/FraudAnalysis-Demo-AzureChina/tree/master/images/nevdatasource50.png)
 
 5、执行scripts目录中的FraudAnalysisData.dsql文件，将存储账户Blob容器中的数据加载到Azure SQL 数据仓库中。
-![Figure 10]({{ site.baseurl }}/images/nevdatasource52.png)
+![Figure 10](https://github.com/NevinDong/FraudAnalysis-Demo-AzureChina/tree/master/images/nevdatasource52.png)
 
 ### 使用Power BI 进行分析 ###
 
