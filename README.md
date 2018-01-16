@@ -38,7 +38,7 @@ Azure SQL 数据仓库是基于 SQL 的完全托管 PB 级云数据仓库，它�
 
 ![Alt text](images/nevdatasource02.png)
 
-2、获取原始交易数据样例，可访问：wasbs://nyctaxidata@sqldwdatasets.blob.core.windows.net。
+2、获取原始交易数据样例，可访问textdata文件夹。
 
 3、获取存储账户名称，及访问密钥。
 ![Alt text](images/nevdatasource06.png)
