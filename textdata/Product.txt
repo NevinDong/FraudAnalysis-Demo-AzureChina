@@ -1,0 +1,35 @@
+﻿10|Electronics|Home appliances
+11|Electronics|Phones
+12|Electronics|TV and video
+13|Exercise|Cycling
+14|Exercise|Fitness Accessories
+15|Exercise|Running and Walkings
+16|Exercise|Weight Training
+17|Team Sports|Baseball
+18|Team Sports|Basketball
+19|Team Sports|Cricket
+1|Action Sports|BMX Biking
+20|Team Sports|Football
+21|Team Sports|Soccer
+22|Decor|Home Fragrances
+23|Decor|Festive
+24|Decor|Collectibles
+25|Furniture|Bathroom Furniture
+26|Furniture|Dining Furniture
+27|Furniture|Outdoor Furniture
+28|Dining & Entertainment|Bakeware
+29|Dining & Entertainment|Cookware
+2|Action Sports|In-Line Skating
+30|Dining & Entertainment|Stemware
+31|Lighting|Floor Lamps
+32|Lighting|Table Lamps
+33|Pillows & Cushions|Furniture Cushions
+34|Pillows & Cushions|Pillows
+35|Pillows & Cushions|Blankets
+3|Action Sports|Skateboarding
+4|Apparel and Footwear|Accessories
+5|Apparel and Footwear|Apparel
+6|Apparel and Footwear|Footwear
+7|Electronics|Audio
+8|Electronics|Cameras
+9|Electronics|Computers

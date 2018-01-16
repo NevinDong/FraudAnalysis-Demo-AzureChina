@@ -1,0 +1,66 @@
+﻿10|Northwind Traders Rome Store|Rome|Italy|Italy|ITA|41.902783|12.496366|Europe
+11|Northwind Traders Madrid Store|Madrid|Spain|Spain|ESP|40.416775|-3.70379|Europe
+12|Northwind Traders Bern Store|Bern|Switzerland|Switzerland|CHE|46.947974|7.447447|Europe
+13|Northwind Traders Ankara Store|Ankara|Turkey|Turkey|TUR|39.933363|32.859742|Europe
+14|Northwind Traders London Store|London|United Kingdom|United Kingdom|UK|51.507351|-0.127758|Europe
+15|Northwind Traders Ottawa Store|Ottawa|Canada|Canada|CAN|45.42153|-75.697193|North & Central America
+16|Northwind Traders Mexico City Store|Mexico City|Mexico|Mexico|MEX|19.432608|-99.133208|North & Central America
+17|Northwind Traders Juneau Store|Juneau|Alaska|USA|AK|61.370716|-152.404419|North & Central America
+18|Northwind Traders Montgomery Store|Montgomery|Alabama|USA|AL|32.806671|-86.79113|North & Central America
+19|Northwind Traders Little Rock Store|Little Rock|Arkansas|USA|AR|34.969704|-92.373123|North & Central America
+1|Northwind Traders Canberra Store|Canberra|Australia|Australia|AUS|-33.867487|151.20699|Asia Pacific
+20|Northwind Traders Phoenix Store|Phoenix|Arizona|USA|AZ|33.729759|-111.431221|North & Central America
+21|Northwind Traders New York Store|Sacramento|California|USA|CA|36.116203|-119.681564|North & Central America
+22|Northwind Traders Denver Store|Denver|Colorado|USA|CO|39.059811|-105.311104|North & Central America
+23|Northwind Traders Hartford Store|Hartford|Connecticut|USA|CT|41.597782|-72.755371|North & Central America
+24|Northwind Traders Dover Store|Dover|Delaware|USA|DE|39.318523|-75.507141|North & Central America
+25|Northwind Traders Tallahassee Store|Tallahassee|Florida|USA|FL|27.766279|-81.686783|North & Central America
+26|Northwind Traders Atlanta Store|Atlanta|Georgia|USA|GA|33.040619|-83.643074|North & Central America
+27|Northwind Traders Honolulu Store|Honolulu|Hawaii|USA|HI|21.094318|-157.498337|North & Central America
+28|Northwind Traders Des Moines Store|Des Moines|Iowa|USA|IA|42.011539|-93.210526|North & Central America
+29|Northwind Traders Boise Store|Boise|Idaho|USA|ID|44.240459|-114.478828|North & Central America
+2|Northwind Traders Shanghai Store|Shanghai|China|China|CHN|31.230416|121.473701|Asia Pacific
+30|Northwind Traders Springfield Store|Springfield|Illinois|USA|IL|40.349457|-88.986137|North & Central America
+31|Northwind Traders Indianapolis Store|Indianapolis|Indiana|USA|IN|39.849426|-86.258278|North & Central America
+32|Northwind Traders Topeka Store|Topeka|Kansas|USA|KS|38.5266|-96.726486|North & Central America
+33|Northwind Traders Frankfort Store|Frankfort|Kentucky|USA|KY|37.66814|-84.670067|North & Central America
+34|Northwind Traders Baton Rouge Store|Baton Rouge|Louisiana|USA|LA|31.169546|-91.867805|North & Central America
+35|Northwind Traders Boston Store|Boston|Massachusetts|USA|MA|42.230171|-71.530106|North & Central America
+36|Northwind Traders Annapolis Store|Annapolis|Maryland|USA|MD|39.063946|-76.802101|North & Central America
+37|Northwind Traders Augusta Store|Augusta|Maine|USA|ME|44.693947|-69.381927|North & Central America
+38|Northwind Traders Los Angeles Store|Lansing|Michigan|USA|MI|43.326618|-84.536095|North & Central America
+39|Northwind Traders Saint Paul Store|Saint Paul|Minnesota|USA|MN|45.694454|-93.900192|North & Central America
+3|Northwind Traders Mumbai Store|Mumbai|India|India|IND|19.075984|72.877656|Asia Pacific
+40|Northwind Traders Jefferson City Store|Jefferson City|Missouri|USA|MO|38.456085|-92.288368|North & Central America
+41|Northwind Traders Miami Store|Jackson|Mississippi|USA|MS|32.741646|-89.678696|North & Central America
+42|Northwind Traders Helena Store|Helena|Montana|USA|MT|46.921925|-110.454353|North & Central America
+43|Northwind Traders Raleigh Store|Raleigh|North Carolina|USA|NC|35.630066|-79.806419|North & Central America
+44|Northwind Traders Bismarck Store|Bismarck|North Dakota|USA|ND|47.528912|-99.784012|North & Central America
+45|Northwind Traders Lincoln Store|Lincoln|Nebraska|USA|NE|41.12537|-98.268082|North & Central America
+46|Northwind Traders Concord Store|Concord|New Hampshire|USA|NH|43.452492|-71.563896|North & Central America
+47|Northwind Traders Trenton Store|Trenton|New Jersey|USA|NJ|40.298904|-74.521011|North & Central America
+48|Northwind Traders Santa Fe Store|Santa Fe|New Mexico|USA|NM|34.840515|-106.248482|North & Central America
+49|Northwind Traders Carson City Store|Carson City|Nevada|USA|NV|38.313515|-117.055374|North & Central America
+4|Northwind Traders Djakarta Store|Djakarta|Indonesia|Indonesia|IDN|-6.208763|106.845599|Asia Pacific
+50|Northwind Traders Albany Store|Albany|New York|USA|NY|42.165726|-74.948051|North & Central America
+51|Northwind Traders Columbus Store|Columbus|Ohio|USA|OH|40.388783|-82.764915|North & Central America
+52|Northwind Traders Oklahoma City Store|Oklahoma City|Oklahoma|USA|OK|35.565342|-96.928917|North & Central America
+53|Northwind Traders Salem Store|Salem|Oregon|USA|OR|44.572021|-122.070938|North & Central America
+54|Northwind Traders Harrisburg Store|Harrisburg|Pennsylvania|USA|PA|40.590752|-77.209755|North & Central America
+55|Northwind Traders Providence Store|Providence|Rhode Island|USA|RI|41.680893|-71.51178|North & Central America
+56|Northwind Traders Columbia Store|Columbia|South Carolina|USA|SC|33.856892|-80.945007|North & Central America
+57|Northwind Traders Pierre Store|Pierre|South Dakota|USA|SD|44.299782|-99.438828|North & Central America
+58|Northwind Traders Nashville Store|Nashville|Tennessee|USA|TN|35.747845|-86.692345|North & Central America
+59|Northwind Traders Austin Store|Austin|Texas|USA|TX|31.054487|-97.563461|North & Central America
+5|Northwind Traders Tokyo Store|Tokyo|Japan|Japan|JPN|35.689487|139.691706|Asia Pacific
+60|Northwind Traders Salt Lake City Store|Salt Lake City|Utah|USA|UT|40.150032|-111.862434|North & Central America
+61|Northwind Traders Richmond Store|Richmond|Virginia|USA|VA|37.769337|-78.169968|North & Central America
+62|Northwind Traders Montpelier Store|Montpelier|Vermont|USA|VT|44.045876|-72.710686|North & Central America
+63|Northwind Traders Olympia Store|Olympia|Washington|USA|WA|47.400902|-121.490494|North & Central America
+64|Northwind Traders Madison Store|Madison|Wisconsin|USA|WI|44.268543|-89.616508|North & Central America
+65|Northwind Traders Dallas Store|Charleston|West Virginia|USA|WV|38.491226|-80.954453|North & Central America
+66|Northwind Traders Cheyenne Store|Cheyenne|Wyoming|USA|WY|42.755966|-107.30249|North & Central America
+6|Northwind Traders Seoul Store|Seoul|Korea|Korea|KOR|37.566535|126.977969|Asia Pacific
+7|Northwind Traders Brazil Store|Brazil|Brazil|Brazil|BRA|-14.235004|-51.92528|South America
+8|Northwind Traders Paris Store|Paris|France|France|FRA|48.856614|2.352222|Europe
+9|Northwind Traders Berlin Store|Berlin|Germany|Germany|DEU|52.520007|13.404954|Europe

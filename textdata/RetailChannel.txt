@@ -1,0 +1,4 @@
+﻿1|Online
+2|Retail Store
+3|Television
+4|Wholesale
